@@ -23,8 +23,6 @@
     "gulp-plumber": "1.1.0",
     "gulp-sourcemaps": "2.6.0",
     "http-server": "0.10.0",
-    "npm-run-all": "4.0.2",
-    "nodemon": "^1.18.10",
-    "react-scripts": "^2.1.8"
+    "npm-run-all": "4.0.2"
   }
 }
