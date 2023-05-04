@@ -2,6 +2,7 @@
   "name": "docx-converter",
   "version": "0.1.0",
   "private": true,
+  "main": "index.js",
   "dependencies": {
     "mammoth": "1.4.2",
     "react": "^15.6.1",
@@ -10,7 +11,8 @@
     "react-scripts": "1.0.11"
   },
   "scripts": {
-    "start": "react-scripts start"
+    "start": "react-scripts start",
+    "build": "webpack"
   },
   "devDependencies": {
     "chokidar-cli": "1.2.0",
