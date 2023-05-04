@@ -11,7 +11,8 @@
     "react-scripts": "1.0.11"
   },
   "scripts": {
-    "start": "react-scripts start"
+    "start": "react-scripts start",
+    "build": "webpack"
   },
   "devDependencies": {
     "chokidar-cli": "1.2.0",
