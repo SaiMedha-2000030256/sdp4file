@@ -1,7 +1,7 @@
 {
   "name": "docx-converter",
   "version": "0.1.0",
-  "private": true,
+  "main": "index.html",
   "dependencies": {
     "mammoth": "1.4.2",
     "react": "^15.6.1",
